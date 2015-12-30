@@ -1,6 +1,8 @@
 package sg.com.leotech.components;
 
-public class Route
-{
+import org.jgrapht.graph.DefaultWeightedEdge;
 
+public class Route extends DefaultWeightedEdge
+{
+	
 }

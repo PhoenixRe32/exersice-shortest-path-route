@@ -1,0 +1,11 @@
+A,B,C,D,E
+A B 3
+B A 3
+A D 6 
+B C 7 
+C D 8 
+D E 9 
+E D 9 
+D C 9 
+D B 5 
+C E 3 
